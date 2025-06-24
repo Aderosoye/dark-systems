@@ -8,7 +8,7 @@ Welcome to the official HQ of **Ayobamidele Aderosoye** — systems engineer, cl
 🛠️ **Toolkit:** [PowerShell Automation Toolkit](https://adroyphill.gumroad.com/l/powershell-automation-toolkit)  
 🚀 **AutoStack™:** [Cloud Automation Hub](https://aderosoye.github.io/dark-systems/projects/autostack.html)  
 🛒 **Store:** [adroyphill.gumroad.com](https://adroyphill.gumroad.com)  
-📧 **Contact:** [adroyphill@gmail.com](mailto:adroyphill@gmail.com)  
+📧 **Contact Info:** See bottom of the [homepage](https://aderosoye.github.io/dark-systems)  
 📂 **Resume:** [Available on website](https://aderosoye.github.io/dark-systems)
 
 ---
