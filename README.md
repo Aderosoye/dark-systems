@@ -4,7 +4,7 @@
 Welcome to the official HQ of **Ayobamidele Aderosoye** — systems engineer, cloud strategist, and founder of the Dark👣 Tech Empire. Focused on backend automation, PowerShell mastery, and AI-first infrastructure.
 
 🔗 **Website:** [aderosoye.github.io/dark-systems](https://aderosoye.github.io/dark-systems)  
-📝 **Blog:** [aderosoye.github.io/dark-systems/blog.html](https://aderosoye.github.io/dark-systems/blog.html)  
+📝 **Blog:** [Read the blog](https://aderosoye.github.io/dark-systems/blog.html)  
 🛠️ **Toolkit:** [PowerShell Automation Toolkit](https://adroyphill.gumroad.com/l/powershell-automation-toolkit)  
 🛒 **Store:** [adroyphill.gumroad.com](https://adroyphill.gumroad.com)  
 📧 **Contact:** [adroyphill@gmail.com](mailto:adroyphill@gmail.com)  
