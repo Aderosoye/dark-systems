@@ -49,19 +49,25 @@
       line-height: 1.6;
       color: #d0d0d0;
     }
+    .snippet {
+      margin: 2rem 0;
+      padding: 1.5rem;
+      background-color: #1a1a1a;
+      border-left: 5px solid #4fd1c5;
+    }
+    .snippet h3 {
+      margin: 0 0 0.5rem 0;
+    }
+    .snippet a {
+      color: #4fd1c5;
+      text-decoration: none;
+    }
     footer {
       text-align: center;
       padding: 2rem;
       background-color: #1a1a1a;
       color: #777;
       font-size: 0.9rem;
-    }
-    ul {
-      padding-left: 1.5rem;
-    }
-    footer a {
-      color: #4fd1c5;
-      text-decoration: none;
     }
   </style>
 </head>
@@ -73,8 +79,7 @@
       <a href="#about">About</a>
       <a href="#projects">Projects</a>
       <a href="#stack">Tech Stack</a>
-      <a href="blog.html">Blog</a>
-      <a href="projects/autostack.html">AutoStack</a>
+      <a href="#blog">Blog</a>
     </nav>
   </header>
 
@@ -83,24 +88,29 @@
     <p>
       Welcome to the official portfolio and product platform of <strong>Ayobamidele Aderosoye</strong> — a systems engineer focused on PowerShell automation, cloud operations, and silent backend mastery.
     </p>
-    <p>
-      🔗 <strong>Live Site:</strong> <a href="https://aderosoye.github.io/dark-systems" target="_blank">aderosoye.github.io/dark-systems</a><br>
-      📝 <strong>Blog:</strong> <a href="https://aderosoye.github.io/dark-systems/blog.html" target="_blank">aderosoye.github.io/dark-systems/blog.html</a><br>
-      🛠️ <strong>Toolkit:</strong> <a href="https://adroyphill.gumroad.com/l/powershell-automation-toolkit" target="_blank">PowerShell Automation Toolkit</a><br>
-      🛒 <strong>Store:</strong> <a href="https://adroyphill.gumroad.com" target="_blank">adroyphill.gumroad.com</a><br>
-      📂 <strong>Resume:</strong> <a href="https://aderosoye.github.io/dark-systems" target="_blank">Available on website</a>
-    </p>
   </section>
 
   <section id="projects">
-    <h2>What You'll Find Here</h2>
-    <ul>
-      <li>My latest tools and automations (PowerShell scripts, system admin kits)</li>
-      <li>Blog posts on real-world IT automation</li>
-      <li><strong><a href="projects/autostack.html">AutoStack™</a></strong> — A full cloud automation hub</li>
-      <li>Case studies and solutions I've used in production</li>
-      <li>Quiet power, built to scale</li>
-    </ul>
+    <h2>Featured Project</h2>
+    <div class="snippet">
+      <h3><a href="projects/autostack.html">AutoStack™ – Cloud Automation Hub</a></h3>
+      <p>Deploy Azure environments with one command. Modular. Scalable. PowerShell-first.</p>
+      <p><a href="projects/autostack.html">Explore AutoStack →</a></p>
+    </div>
+  </section>
+
+  <section id="blog">
+    <h2>Latest from the Blog</h2>
+    <div class="snippet">
+      <h3><a href="posts/second-post.html">PowerShell is My Keyboard</a></h3>
+      <p>For me, PowerShell is the operating system of automation. Here's how I use it to build systems that think.</p>
+      <p><a href="posts/second-post.html">Read Post →</a></p>
+    </div>
+    <div class="snippet">
+      <h3><a href="posts/first-post.html">The Power in Silence</a></h3>
+      <p>Behind every elite system is someone who chose mastery over noise. Here's why I build like a samurai.</p>
+      <p><a href="posts/first-post.html">Read Post →</a></p>
+    </div>
   </section>
 
   <section id="stack">
@@ -114,21 +124,9 @@
     </ul>
   </section>
 
-  <section id="contact">
-    <h2>Let’s Collaborate</h2>
-    <p>
-      Want to collaborate, hire, or just connect? Reach out directly:
-    </p>
-    <ul>
-      <li>Email: <a href="mailto:adroyphill@gmail.com">adroyphill@gmail.com</a></li>
-      <li>GitHub: <a href="https://github.com/Aderosoye" target="_blank">Aderosoye</a></li>
-      <li>Twitter: <a href="https://twitter.com/ayoaderosoye" target="_blank">@ayoaderosoye</a></li>
-    </ul>
-  </section>
-
   <footer>
     &copy; 2025 Dark👣 Holdings. Built in silence. Moved in power. <br/>
-    <a href="blog.html">Read the Blog</a>
+    Contact: <a href="mailto:adroyphill@gmail.com">adroyphill@gmail.com</a>
   </footer>
 </body>
 </html>
