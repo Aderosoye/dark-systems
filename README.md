@@ -1,9 +1,9 @@
 # Dark👣 Systems
 **Tools. Scripts. Power.**
 
-Welcome to the official portfolio and product platform of **Ayobamidele Aderosoye** — a systems engineer focused on PowerShell automation, cloud operations, and silent backend mastery.
+Welcome to the official HQ of **Ayobamidele Aderosoye** — systems engineer, cloud strategist, and founder of the Dark👣 Tech Empire. Focused on backend automation, PowerShell mastery, and AI-first infrastructure.
 
-🔗 **Live Site:** [aderosoye.github.io/dark-systems](https://aderosoye.github.io/dark-systems)  
+🔗 **Website:** [aderosoye.github.io/dark-systems](https://aderosoye.github.io/dark-systems)  
 📝 **Blog:** [aderosoye.github.io/dark-systems/blog.html](https://aderosoye.github.io/dark-systems/blog.html)  
 🛠️ **Toolkit:** [PowerShell Automation Toolkit](https://adroyphill.gumroad.com/l/powershell-automation-toolkit)  
 🛒 **Store:** [adroyphill.gumroad.com](https://adroyphill.gumroad.com)  
@@ -13,10 +13,10 @@ Welcome to the official portfolio and product platform of **Ayobamidele Aderosoy
 ---
 
 ### 🧠 What You'll Find Here
-- My latest tools and automations (PowerShell scripts, system admin kits)
-- Blog posts on real-world IT automation
-- Case studies and solutions I've used in production
-- Quiet power, built to scale
+- IT automation tools and real-world infrastructure solutions
+- PowerShell scripts, cloud deployment templates, and case studies
+- Build logs, blog posts, and quiet product drops
+- Systems designed to scale — without noise
 
 ---
 
