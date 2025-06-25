@@ -11,18 +11,18 @@ This is the personal platform of **Ayobamidele Aderosoye** — systems engineer,
 - 📝 **Latest Blog Posts:**
   - [PowerShell is My Keyboard](https://aderosoye.github.io/dark-systems/posts/second-post.html)
   - [The Power in Silence](https://aderosoye.github.io/dark-systems/posts/first-post.html)
-- 🚀 **Featured Project:** [AutoStack™ – Cloud Automation Hub](https://aderosoye.github.io/dark-systems/projects/autostack.html)
-- 🛠️ **PowerShell Toolkit:** [Automation Toolkit on Gumroad](https://adroyphill.gumroad.com/l/powershell-automation-toolkit)
+- 🚀 **Featured Project:** [AutoStack™ – Cloud Automation Hub](https://aderosoye.github.io/dark-systems/autostack.html)
+- 🛠️ **PowerShell Toolkit:** [Automation Toolkit on Gumroad](https://adroyphill.gumroad.com/l/vbovud)
 - 📧 **Email:** [adroyphill@gmail.com](mailto:adroyphill@gmail.com)
 
 ---
 
 ## 🧠 What You'll Find Here
 
-- PowerShell scripts and toolkits for system administration and automation
-- Azure-native infrastructure deployment patterns
-- Projects built with AI-first architecture in mind
-- Blog posts reflecting silent mastery, automation, and infrastructure ops
+- ⚙️ PowerShell scripts and toolkits for system administration and automation
+- ☁️ Azure-native infrastructure deployment patterns
+- 🤖 Projects built with AI-first architecture in mind
+- ✍🏾 Blog posts reflecting silent mastery, automation, and infrastructure ops
 
 ---
 
