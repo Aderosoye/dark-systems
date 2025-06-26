@@ -81,3 +81,14 @@ Each script is modular, secure, and battle-tested for real-world deployment.
 ---
 
 > **Dark👣 is no longer in build mode. We're in release mode.**
+---
+
+## 💼 New Drop: Remote IT Freelancer Starter Kit
+
+🔗 [Gumroad – Freelancer Kit](https://adroyphill.gumroad.com/l/freelancer-kit)  
+📘 [Blog – Break into Tech Freelancing](https://aderosoye.github.io/dark-systems/posts/remote-freelancer-kit.html)
+
+Includes:
+- Strategy PDF to go remote and get paid
+- Cover letter, gig writeups, and CV snippet
+- PowerShell & Azure-based freelance task samples
