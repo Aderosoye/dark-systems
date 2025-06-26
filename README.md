@@ -92,3 +92,15 @@ Includes:
 - Strategy PDF to go remote and get paid
 - Cover letter, gig writeups, and CV snippet
 - PowerShell & Azure-based freelance task samples
+---
+
+## 🎯 New Drop: The Freelancer Arsenal – Full Stack Bundle
+
+🔗 [Gumroad – Freelancer Arsenal](https://adroyphill.gumroad.com/l/freelancer-arsenal)  
+📘 [Blog – Build Your Freelance Empire](https://aderosoye.github.io/dark-systems/posts/freelancer-arsenal.html)
+
+Includes:
+- PowerShell Elite Templates (11 Scripts)
+- Freelancer Kit (Guide + CV + Pitches)
+- AI Prompt for Offer Generation
+- Upwork Client Message Template
