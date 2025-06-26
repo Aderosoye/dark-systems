@@ -38,3 +38,46 @@ This is the personal platform of **Ayobamidele Aderosoye** — systems engineer,
 ---
 
 > **“Built in silence. Moved in power.”**
+---
+
+## 🔥 New Product
+
+- 🛠️ **[PowerShell Elite Templates – Vol. 1](https://adroyphill.gumroad.com/l/powershell-elite-bundle-v1)**  
+  Enterprise-grade PowerShell automation scripts with documentation and quick-start guide. Automate AD onboarding, Azure VMs, system health checks, and more.
+
+---
+
+## 🆕 New Blog Post
+
+- 📘 [PowerShell Elite Templates – Vol. 1](https://aderosoye.github.io/dark-systems/posts/powershell-elite-launch.html)
+
+---
+
+## 🔗 Updated Live Content
+
+- 🌐 **Live Site:** [aderosoye.github.io/dark-systems](https://aderosoye.github.io/dark-systems)
+- 🛠️ **New Product:** [PowerShell Elite Templates – Vol. 1](https://adroyphill.gumroad.com/l/powershell-elite-bundle-v1)
+- 📝 **New Blog Post:** [PowerShell Elite Templates – Vol. 1 Launch](https://aderosoye.github.io/dark-systems/posts/powershell-elite-launch.html)
+
+---
+
+## 📦 Bundle Details
+
+This drop includes 11 full scripts:
+- Active Directory Bulk Onboarding
+- Azure VM Snapshot & Restore
+- System Health Reporter
+- Disk Usage Monitor
+- Windows Services Checker
+- Event Log Parser
+- Temp File Cleaner
+- Task Scheduler Report
+- Defender Status
+- System Uptime
+- Azure Blob Cleanup
+
+Each script is modular, secure, and battle-tested for real-world deployment.
+
+---
+
+> **Dark👣 is no longer in build mode. We're in release mode.**
