@@ -3,6 +3,14 @@
 
 This is the personal platform of **Ayobamidele Aderosoye** — systems engineer, infrastructure architect, and founder of the Dark👣 Tech Empire. I build automation tools, deploy cloud infrastructure, and document the process quietly and powerfully.
 
+> In 2025, I stumbled across the world of systems administration while studying networking fundamentals — and instantly recognized it as the missing link.
+>
+> With a background in telecoms and a natural pull toward infrastructure, I’ve since immersed myself in automation, scripting, and cloud operations — delivering real-world M365 migrations, packaging tools, and shipping polished projects publicly.
+>
+> My approach isn’t academic — it’s action-first. Everything I build reflects real environments, real constraints, and production-level thinking.
+>
+> I’m not chasing titles. I’m building systems.
+
 ---
 
 ## 🔗 Featured Links
@@ -38,6 +46,7 @@ This is the personal platform of **Ayobamidele Aderosoye** — systems engineer,
 ---
 
 > **“Built in silence. Moved in power.”**
+
 ---
 
 ## 🔥 New Product
@@ -81,6 +90,7 @@ Each script is modular, secure, and battle-tested for real-world deployment.
 ---
 
 > **Dark👣 is no longer in build mode. We're in release mode.**
+
 ---
 
 ## 💼 New Drop: Remote IT Freelancer Starter Kit
@@ -92,6 +102,7 @@ Includes:
 - Strategy PDF to go remote and get paid
 - Cover letter, gig writeups, and CV snippet
 - PowerShell & Azure-based freelance task samples
+
 ---
 
 ## 🎯 New Drop: The Freelancer Arsenal – Full Stack Bundle
